@@ -79,7 +79,7 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 08241006291\x1b[1;96m  
 \033[1;96m [¤] \x1b[1;93mAPA KABAR BANGS4T\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +SIAPA YANG PALING GANTENX+:jawol+Sekali lagi dong+:gantenX\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS MUHAMMAD RAFLI\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : Rafly pake i\x1b[1;96m"""
+\033[1;96m [¤] \x1b[1;93mTOOLS jawolgantenX\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr j29\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "jawol"
