@@ -78,8 +78,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;96m [¤] \x1b[1;93mApa kabar BwangsaT\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 08241006291\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mAPA KABAR BANGS4T\x1b[1;96m      [¤] \x1b[1;93m UNTUK LOGIN chat wa gw ajg+\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS jawolgantenXg\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr j29\x1b[1;96m"""
+\033[1;96m [¤] \x1b[1;93mAPA KABAR BANGS4T\x1b[1;96m      [¤] \x1b[1;93m UNTUK LOGIN chat wa gw ajg\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mTOOLS jawolgantenX ~~\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr j29\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "jawol"
