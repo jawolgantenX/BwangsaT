@@ -51,19 +51,19 @@ logo = """\033[1;93m█████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗
 \033[1;93m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96  +RaflyPakei+
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96  jawolgantenX :) 
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
-\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mBrother•|Mr.RaflyPakei\033[1;93m          ║
-\033[1;93m║\033[1;96m* \033[1;93mYouTube  \033[1;93m : \033[1;93m\033[4mRafly pake i\033[0m \033[1;93m║
-\033[1;93m║\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m082_290_232_340\033[1;93m                 ║
+\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mjawolgantenX\033[1;93m          ║
+\033[1;93m║\033[1;96m* \033[1;93mFacebook  \033[1;93m : \033[1;93mInsection Kulon\033[4\033[0m \033[1;93m║
+\033[1;93m║\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m082241006291\033[1;93m                 ║
 \033[1;93m╚════════════════════════════════════════════╝"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk by rafly pake i \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mlagek mlebu asu!!!!sabar\x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -77,9 +77,9 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 08241006291\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mAPA KABAR BANGS4T\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +SIAPA YANG PALING GANTENX+:jawol+Sekali lagi dong+:gantenX\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS jawolgantenX\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr j29\x1b[1;96m"""
+print  """\033[1;96m [¤] \x1b[1;93mApa kabar BwangsaT\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 08241006291\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mAPA KABAR BANGS4T\x1b[1;96m      [¤] \x1b[1;93m UNTUK LOGIN chat wa gw ajg+\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mTOOLS jawolgantenXg\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr j29\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "jawol"
@@ -87,17 +87,17 @@ CorrectPassword = "gantenX"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mSIAPA YANG PALING GANTENX TOOLS INI \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \x1b[1;93mSIAPA YANG PALING GANTENX\x1b[1;96m>>>> ")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mSekali lagi dong\x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "yang bener dong"
+            print "yang bener ajg"
             os.system('xdg-open https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg')
     else:
-        print "salah sayang!"
+        print "salah BwangsaT!"
         os.system('xdg-open https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg')
 
 def login():
@@ -111,7 +111,7 @@ def login():
 		print 42*"\033[1;96m="
 		print('\033[1;96m[☆] \x1b[1;93mLOGIN AKUN FACEBOOK MU ASU \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[1;93mID/Email \x1b[1;91m: \x1b[1;92m')
-		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
+		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword lu ajg \x1b[1;91m: \x1b[1;92m')
 		tik()
 		try:
 			br.open('https://m.facebook.com')
